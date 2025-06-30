@@ -27,7 +27,7 @@ Burger         20.00/-
 
 
 
-Zakeer (Order)
+Ramya (Order)
     - Pizza     x2  (Item)
     - Burger    x1  (Item)
 
@@ -35,7 +35,7 @@ Zakeer (Order)
 Harish (Order)
     - Burger    x5  (Item)
 
-Tazeem (Order)
+sai (Order)
     - Fries    x2  (Item)
 
 Zakeer (Order)
