@@ -1,5 +1,5 @@
 ## CSV (Comma Seperated Values)
 
 Name,Designation,Location
-Zakeer,UI Developer,Hyderabad India
-Shoyab,Frontend Engineer,Guntur India
+Ramya,UI Developer,Hyderabad India
+Sai,Frontend Engineer,Guntur India
